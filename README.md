@@ -8,3 +8,6 @@ I am 4th-year Integrated Masters student majoring in Information Technology from
 - 👯 I’m looking to collaborate on research work to improve my knowledge and contribute to the society.
 - 📫 Reach me out: <praveenkmrsahu@gmail.com> 
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=povinsahu1909&show_icons=true&hide_border=true&count_private=true">
+</p>
